@@ -1,4 +1,2 @@
 # Tenant1
-Files sometimes for Tenant One
-Correction to Document
-
+Files for Tenant One
